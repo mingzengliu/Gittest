@@ -6,6 +6,8 @@
 #include<iostream>
 int main()
 {
+	double sum = 0.0;
+	std::cout << "sum = " << sum << std::endl;
 	std::cout << "Hello Git and Github " << std::endl;
     return 0;
 }
